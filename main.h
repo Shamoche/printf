@@ -9,7 +9,7 @@
 
 
 int _custom_printf(const char *format, ...)
-
+int _custom_putchar(char character)
 
 
 #endif
